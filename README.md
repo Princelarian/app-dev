@@ -11,6 +11,6 @@ My first repository
 - Networks: Adult Swim, Cartoon Network
 - Genre: Animated sitcom; Adult animation; Science fiction; Black comedy; Adventure
 
-[Sypnosis] (https://pressroom.warnermedia.com/na/synopses/rick-and-morty-series-description#:~:text=Rick%20and%20Morty%20is%20the,dangerous%20adventures%20across%20the%20universe.)
+[Sypnosis] (https://pressroom.warnermedia.com/na/synopses/rick-and-morty-series-description#:~:text=Rick%20and%20Morty%20is%20the,dangerous%20adventures%20across%20the%20universe)
 
 ***
